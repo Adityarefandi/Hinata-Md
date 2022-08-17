@@ -265,12 +265,5 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
  *≻* ${prefix}exif
  *≻* ${prefix}leave
  *≻* ${prefix}addprem
- *≻* ${prefix}delprem
-
- *THANKS TO*
- *≻* Irfan H.
- *≻* Fatih Arridho
- *≻* Yog Azz
- *≻* Faiz Frdnd
- *≻* Riy 04`
+ *≻* ${prefix}delprem`
 }
